@@ -1,3 +1,5 @@
 PEDIDOS EN LINEA
+Cliente: 2
+Pedido: Paella
 Cliente: 3
 Pedido: Callos
