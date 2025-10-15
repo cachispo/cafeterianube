@@ -1,0 +1,4 @@
+DATOS CLIENTES
+Nºcliente: 1
+Nombre: Manolo 
+Direccion: C/Periquito de los Palotes Nº33
